@@ -1,0 +1,53 @@
+h1 {
+  align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: green;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 75px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  background-color: white;
+  text-align: center; margin-right: -4px;
+  padding:25px;
+  width: 360px;
+  display: inline-block;
+}
+
+#bar {
+  align: center;
+}
+
+img {
+  margin: auto;
+  align-content: center;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #585859;
+  background-color: #ededed
+}
+
+.white {
+  background-color: white;
+  margin: 0px;
+  margin-bottom: 25px;
+  border: 0px white;
+  padding: 25px;
+}
+
+.linksbox {
+  color: white;
+  background-color: #569154;
+  margin: 0px;
+  border: 0px #569154;
+  padding: 25px;
+}
